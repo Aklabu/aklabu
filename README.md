@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklabu&label=Profile%20views&color=0e75b6&style=flat" alt="aklabu" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django & Django Rest Framework**
 
 - 🌱 I’m currently learning **FastAPI**
 
